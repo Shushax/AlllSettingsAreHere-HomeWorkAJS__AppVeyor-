@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mua1ak1xvs6cmb04?svg=true)](https://ci.appveyor.com/project/Shushax/homeworks-ahj-1)
